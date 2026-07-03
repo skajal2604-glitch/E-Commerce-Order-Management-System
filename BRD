@@ -1,1 +1,8 @@
-#Business Requirement Document
+#E-commerce order Management Systems    
+#Projecr Objective- Develop an online order management systems that allows customers to brows products, place orders, make secure payments, track orders, and manage returns. the systemshould also enable administratiors to manage products, inventory, and customer orders efficinctly.
+#Business goal- 1. Improve customer shopping experience. 2. Reduce order processing time. 3. Enable secure online payment 4. Provide real-time order tracking 5. Simplifyinventory
+#Stakeholders - 1. Customer 2. Admin 3. Business Owner 4. Delivery Partner 5. Payment Gateway
+# Scope ### In scope - 1. User regiistration & Login 2.Product Search 3. Shopping Card 4. Order Placement 5. Payment 6. Order tracking 7. Returns & Refunds 8. Admin Dashboard
+### Out of Scope 1. International Shipping 2. Multi-currency Support 3. Loyalty Rewards
+### Assumptions - 1.Users have internet access 2. Payment gateway is available 3. Products are in stock
+##Constraints - 1. Secure authentication. 2. Fast response time 3.Mobile friendly application
