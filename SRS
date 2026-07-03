@@ -1,0 +1,2 @@
+# Functional Requirement - 1. User Registration & login 2. Product Search 3. Product Details 4. Add to cart 5. Checkout 6. Online payment 7. Online tracking 8. Order Cancellation 9. Admin Dashboards 10. Inventory
+# Non functional Requirement - 1.Response timeshould be less than 3 second 2. 99.9% system availability 3. Mobile responsive design 4. Data encryption for payment information
