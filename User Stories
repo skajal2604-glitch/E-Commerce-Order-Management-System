@@ -1,0 +1,24 @@
+#User stories
+##Epic : User Registration & Login 
+### US - 001 User Registration  **As a** new customer, **I want** to create an account, ** So that** I Can shop online and track my orders.
+**Acceptance Criteria** - User can register using name, email, and password. - Email must be unique. - Successful registration displays a confirmation message.
+
+##US -002 User Login  ** As a ** registered customer, ** I want ** to log in, ** So that** I can access my account and place orders.
+**Acceptance Criteria ** User can log in with valid credentials. - Invalid credentials display an error message
+
+## US -003 Search Products  **As a **customer,** I want** to search products by name or category, ** So that** I quickly find what I need.
+
+##US -004 Add Product to cart ** As a ** customer, ** I want** to add products to my shoppig cart, ** So that ** I can purchase multiple items together.
+
+## US -005 Checkout ** As a**customer, ** I want ** to complete my purchase, ** So that** I can receive my ordered products.
+
+##US - 006 Make Payment ** As a** customer, ** I want** to pay securely using online payment, ** So that** my order is confirmed.
+
+##US -007 Track Orders  ** As a** customer, ** I want** to track my order before shipment, ** So that** I know the delivery status .
+
+##US 008 Cancel order ** As a** customer, ** I want to cancel my order shipment, ** So that** I can avoid unwanted purchase.
+
+
+## US 009 Manage Products ** As a** admin, ** I want** to add, edit, or delete products, ** so that** Customer always see updated inventory
+
+## US 010 Manage ORders ** As an** admin, ** I want** to view and update customer orders, ** So that** I can manage the order lifecycle efficiently.
