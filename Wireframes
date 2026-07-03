@@ -1,0 +1,29 @@
+##E- commerce Order Management System
+### Purpose
+The wireframes provide a visual representation of the application's user interface and user journey.
+
+##Screens Included
+
+### 1. Login Screen
+-email  -Passwords -login button -Sign up link
+
+### 2. Registration Screen
+- Full name -Email - Password -Confirm Password - Register button
+
+### 3. Home Page
+-Search bar  -Product categories -Product listing - Shopping cart icon
+
+### 4. Product Deatails page 
+-Product Image  -Product description  - Price  - Add to cart icon
+
+### 5. Shopping Cart
+- Selected products  - Quantity  - Total amount  - Proceed to checkout button
+
+### 6. Checkout Page
+- Shipping address  - Payment method  - Place Order button
+
+### 7. Order Confirmation
+- Order ID  - Order summery  - Track order button
+
+### 8. Admun Dashboard
+- Manage Products  - Manage orders  - Inventory  - Cusomer Management
